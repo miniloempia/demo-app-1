@@ -1,8 +1,8 @@
 ignore:
   cves:
-    'AIKIDO-2024-10093':
+    'AIKIDO-2024-100933':
       reason: bliepbloep
-    'CVE-2021-3807':
+    'CVE-2021-38073':
       reason: tweede path
 exclude:
   paths:
