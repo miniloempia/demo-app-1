@@ -1,7 +1,10 @@
 ignore:
   cves:
-    'CVE-2024-30105':
-      reason: random reason
+    'AIKIDO-2024-10093':
+      reason: bliepbloep
+    'CVE-2021-3807':
+      reason: tweede path
 exclude:
   paths:
-    - nuget/packages.lock.json
+    - packages/app/package-lock.json
+    - package-lock.json
